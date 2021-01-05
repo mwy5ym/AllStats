@@ -1,0 +1,14 @@
+php 7.2.x 7.3.x 7.4.x
+https://windows.php.net/download/
+
+python 3.7.x 3.8.x
+https://www.python.org/downloads/
+
+MariaDB
+https://downloads.mariadb.org/
+
+Visual C++ Redistributable for Visual Studio 2012 Update 4
+https://www.microsoft.com/en-us/download/details.aspx?id=30679
+
+Visual C++ Redistributable Packages for Visual Studio 2013
+https://www.microsoft.com/en-us/download/details.aspx?id=40784
